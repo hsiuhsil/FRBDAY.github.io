@@ -1,4 +1,4 @@
-# FRB DAY in University of Toronto
+# FRB DAY at the University of Toronto
 
 Date: Nov. 30th 2018 (Fri.)
 
