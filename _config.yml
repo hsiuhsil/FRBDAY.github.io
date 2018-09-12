@@ -1,2 +1,4 @@
 theme: jekyll-theme-Slate
 title: Welcome to the FRB DAY
+github:
+  is_project_page: false
