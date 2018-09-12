@@ -1,45 +1,37 @@
-# FRB DAY at CITA/Dunlap at the University of Toronto
+## Welcome to GitHub Pages
 
-Date: Nov. 30th 2018 (Fri.)
+You can use the [editor on GitHub](https://github.com/scintillometry-2018/scintillometry-2018.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Time: 09 AM to 05 PM
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Location: Room 1318A, 13th floor, McLennan Physical Laboratories, University of Toronto,60 St. George Street, Toronto, ON. M5S 3H8
+### Markdown
 
-(Traffic information is [here](https://www.cita.utoronto.ca/visitor-info/getting-here/).)
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-## Invited speakers
+```markdown
+Syntax highlighted code block
 
-[Prof. Sarah Burke-Spolaor](https://sarahspolaor.faculty.wvu.edu/) (WVU/VLA)
+# Header 1
+## Header 2
+### Header 3
 
-[Prof. Matt McQuinn](http://faculty.washington.edu/mcquinn/) (UW)
+- Bulleted
+- List
 
-[Dr. Paul Scholz](http://astroherzberg.org/people/paul-scholz/) (DRAO) 
+1. Numbered
+2. List
 
-[Dr. Ben Margalit](http://benmargalit.com/) (Berkeley/ Columbia)
+**Bold** and _Italic_ and `Code` text
 
-## Program
+[Link](url) and ![Image](src)
+```
 
-| Time  | Agenda |
-| ------------- | ------------- |
-| Morning  | Opening, talks, and coffee  |
-| Noon     | Lunch  |
-| Afternoon| Talks, coffee, panel discussion|
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## Registration
-Registration [Site](https://docs.google.com/forms/d/e/1FAIpQLSdMkaJhd-QOKtcbXuCjpMLz1-JHSrAzW9dBNBvUaKGUsIUoKQ/viewform)
+### Jekyll Themes
 
-Registration deadline (EDT):  11:59 PM on Oct. 1st (Mon.)
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scintillometry-2018/scintillometry-2018.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+### Support or Contact
 
-## The Local Organizing Committee
-
-Please feel free to contact us, if there is any question.
-
-Prof. Ue-Li Pen <pen@cita.utoronto.ca>
-
-Prof. Bryan Gaensler <bgaensler@dunlap.utoronto.ca>
-
-Dr. Cherry Ng <cherry.ng@dunlap.utoronto.ca>
-
-Dr. Hsiu-Hsien Lin <hhlin@cita.utoronto.ca>
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
