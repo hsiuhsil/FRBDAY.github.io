@@ -18,6 +18,13 @@ Location: Room 1318A, 13th floor, McLennan Physical Laboratories, University of 
 
 [Dr. Ben Margalit](http://benmargalit.com/) (Berkeley/ Columbia)
 
+## Program
+
+| Time  | Agenda |
+| ------------- | ------------- |
+| Morning  | Opening, talks, and coffee  |
+| Noon     | Lunch  |
+| Afternoon| Talks, coffee, panel discussion|
 
 ## Welcome to GitHub Pages
 
