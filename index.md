@@ -1,3 +1,9 @@
+# Logistics
+Date: Nov. 30th 2018 (Fri.)
+Time: 09 AM to 05 PM
+Location: Room 1318A, 13th floor, McLennan Physical Laboratories, University of Toronto,60 St. George Street, Toronto, ON. M5S 3H8
+(Traffic information is [here](https://www.cita.utoronto.ca/visitor-info/getting-here/).)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hsiuhsil/FRBDAY.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -10,6 +16,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+
+
 
 # Header 1
 ## Header 2
