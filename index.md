@@ -30,3 +30,16 @@ Location: Room 1318A, 13th floor, McLennan Physical Laboratories, University of 
 Registration [Site](https://docs.google.com/forms/d/e/1FAIpQLSdMkaJhd-QOKtcbXuCjpMLz1-JHSrAzW9dBNBvUaKGUsIUoKQ/viewform)
 
 Registration deadline (EDT):  11:59 PM on Oct. 1st (Mon.)
+
+
+## The Local Organizing Committee
+
+Please feel free to contact us, if there is any question.
+
+Prof. Ue-Li Pen <pen@cita.utoronto.ca>
+
+Prof. Bryan Gaensler <bgaensler@dunlap.utoronto.ca>
+
+Dr. Cherry Ng <cherry.ng@dunlap.utoronto.ca>
+
+Dr. Hsiu-Hsien Lin <hhlin@cita.utoronto.ca>
